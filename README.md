@@ -1,4 +1,5 @@
 # PHP: The Right Way
+# PHP: The Right Way
 
 ## Overview
 
